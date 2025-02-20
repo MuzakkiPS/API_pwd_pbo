@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'post.dart'; // Menggunakan post.dart
+import 'product.dart'; // Menggunakan post.dart
 
 void main() {
   runApp(MyApp());
